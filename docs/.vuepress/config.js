@@ -4,9 +4,9 @@ const themeConfig = require('./config/themeConfig.js');
 
 module.exports = {
   theme: 'vdoing', // 使用npm包主题
-  title: "vdoing-template",
+  title: "PXxia.github.io",
   description: 'vdoing博客主题模板',
-  base: '/vdoing-template/', // 格式：'/<仓库名>/'， 默认'/'
+  base: '/PXxia.github.io/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号
   },
